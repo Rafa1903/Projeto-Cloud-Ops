@@ -13,18 +13,56 @@ A **computação de nuvem** é a disponibilidade de recursos e serviços de tecn
 
 ### Modelo de Implantação:
 
-- **Nuvem privada:** usa recursos dedicados a uma única organização(com mais controle e segurança);
+- **Nuvem Privada:** usa recursos dedicados a uma única organização(com mais controle e segurança);
 
-- **Nuvens pública:** é compartilhada e gerenciada por terceiros.
+- **Nuvens Pública:** é compartilhada e gerenciada por terceiros.
 
-- Nuvem híbrida:** é a mistura dos dois.
+- **Nuvem híbrida:** é a mistura dos dois.
 
 ## 3. Microsoft Azure:
 
 O **Microsoft Azure** é uma plataforma em nuvem criada para hospedar, gerenciar e escalar aplicativos e serviços por meio da internet. Permite alugar o poder de processamento, armazenamento e ferramentas tecnológicas pela internet, sem precisar comprar servidores ou computadores físicos.
 
-Exemplo: Alugar computadores virtuais, guardar e proteger dados, conectar redes e segurança, entre outros.
+Exemplos de utilização:
 
-### Assinatura:
+- Hospedar aplicações.
+- Criar e utilizar máquinas virtuais.
+- Configurar recursos e serviços.
 
-As **Assinaturas** no Microsoft Azure são meios de organizar, gerenciar e cobrar serviços e recursos na nuvem. É uma maneira de contabilizar o uso das mecânicas da aplicação. 
+## 4. Assinatura:
+
+As **Assinaturas** no Microsoft Azure são unidades utilizadas para organizar, gerenciar e cobrar serviços e recursos na nuvem. Elas também permitem controlar o acesso aos recursos e acompanhar os custos relacionados à sua utilização.
+
+Uma **Assinatura** funciona como um limite de cobrança dentro do Azure, no qual podem existir diferentes grupos de recursos.
+
+## 5. Grupos de Recursos(Resource Group):
+
+O **Grupo de Recursos** um contêiner lógico usado para agrupar e gerenciar juntos os recursos relacionados de uma solução na nuvem, como máquinas virtuais, bancos de dados, redes virtuais e contas de armazenamento.
+
+Ele funciona como uma pasta virtual que facilita o controle de ciclo de vida, permissões e custos desses componentes, basicamente um local onde "guarda" ferramentas(servidores, banco de dos, redes virtuais, etc) que fazem o projeto funcionar.
+
+## 7. Máquinas virtuais (VMs)
+
+Uma **Máquina Virtual** é um computador criado por meio de virtualização, que funciona utilizando os recursos de uma máquina física.
+
+Ela pode possuir seu próprio sistema operacional, memória, processador e armazenamento.
+
+No Azure, as máquinas virtuais permitem utilizar servidores pela internet, sem precisar ter um servidor físico próprio.
+
+Podem ser utilizadas para executar aplicações, hospedar serviços e realizar diferentes atividades.
+
+## 8. Linux
+
+O **Linux** é um sistema operacional utilizado em computadores e servidores.
+
+Ele é bastante utilizado em ambientes de infraestrutura e computação em nuvem, pois permite administrar recursos e executar serviços por meio de comandos no terminal.
+
+Em máquinas virtuais, o Linux pode ser utilizado como sistema operacional para executar aplicações e serviços.
+
+## 9. SSH (Secure Shell)
+
+O **SSH** é um protocolo utilizado para realizar conexões remotas e acessar outros computadores ou servidores de forma segura.
+
+Ele permite que um usuário acesse e execute comandos em uma máquina sem precisar estar fisicamente no local.
+
+No Cloud Computing, o SSH pode ser utilizado para acessar máquinas virtuais Linux e realizar atividades de administração.

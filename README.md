@@ -6,10 +6,10 @@ Gerenciamento e monitoramento básico de recursos na nuvem
 Desenvolver conhecimentos básicos sobre gerenciamento e monitoramento de recursos na nuvem utilizando Microsoft Azure.
 
 ## Ferramentas utilizadas
-- Microsoft Azure
-- Azure CLI
-- Linux
-- GitHub
+- **Microsoft Azure**
+- **Azure CLI**
+- **Linux**
+- **GitHub**
 
 ## Atividades realizadas
 - Estudo sobre computação em nuvem.
@@ -19,7 +19,7 @@ Desenvolver conhecimentos básicos sobre gerenciamento e monitoramento de recurs
 - Monitoramento e alertas.
 
 ## Aprendizados
-Descrever os principais conhecimentos adquiridos durante o projeto.
+
 
 ## Próximos passos
-Aprofundar os conhecimentos em Cloud Ops e infraestrutura.
+Aprofundar mais ao fundo sobre os conhecimentos em Cloud Ops e infraestrutura.

@@ -19,7 +19,7 @@ A **computação de nuvem** é a disponibilidade de recursos e serviços de tecn
 
 - **Nuvens Pública:** é compartilhada e gerenciada por terceiros.
 
-- **Nuvem híbrida:** é a mistura dos dois.
+- **Nuvem Híbrida:** é a mistura dos dois.
 
 ## 3. Microsoft Azure:
 

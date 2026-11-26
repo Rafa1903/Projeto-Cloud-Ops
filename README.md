@@ -14,6 +14,10 @@ Desenvolver conhecimentos básicos sobre gerenciamento e monitoramento de recurs
 - **GitHub**
 - **Markdown**
 
+## Evidências
+
+Os conteúdos desenvolvidos durante o projeto estão documentados nos arquivos Markdown deste repositório. O histórico de commits também registra as alterações realizadas ao longo do desenvolvimento.
+
 ## Atividades realizadas
 - Estudo sobre computação em nuvem.
 - Explicação sobre os fundamentos básicos em nuvem.

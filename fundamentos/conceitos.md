@@ -1,5 +1,7 @@
 # Fundamentos de Cloud OPS
 
+Nessa parte vai ser responsável em explicar os conceitos básicos de Cloud OPS.
+
 ## 1. Computação em Nuvem e IaaS, PaaS e SaaS:
 
 A **computação de nuvem** é a disponibilidade de recursos e serviços de tecnologia na internet, como servidores, armazenamentos e redes, sob demanda, com cobrança geralmente de uso.

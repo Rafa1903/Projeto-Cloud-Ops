@@ -35,7 +35,7 @@ Por exemplo, imagine que uma máquina virtual esteja utilizando uma quantidade m
 
 Dessa maneira, o administrador pode receber uma notificação e verificar o que está acontecendo.
 
-## 4. Como funcionam os alertas?
+### Como funcionam os alertas?
 
 De maneira geral, a configuração de um alerta envolve:
 
@@ -49,7 +49,7 @@ Por exemplo, um alerta pode ser configurado para identificar quando o uso da CPU
 
 Esse valor é apenas um exemplo e pode ser alterado de acordo com a necessidade do ambiente.
 
-## 5. Importância do monitoramento
+## 4. Importância do monitoramento
 
 O **Monitoramento** permite acompanhar o desempenho dos recursos e identificar problemas antes que eles prejudiquem o funcionamento dos serviços.
 

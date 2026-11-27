@@ -1,6 +1,6 @@
 # Projeto-Cloud-Ops
-Gerenciamento e monitoramento básico de recursos na nuvem
 
+Gerenciamento e monitoramento básico de recursos na nuvem
 
 ## Objetivo
 Desenvolver conhecimentos básicos sobre gerenciamento e monitoramento de recursos na nuvem utilizando Microsoft Azure.
@@ -33,4 +33,4 @@ Os conteúdos desenvolvidos durante o projeto estão documentados nos arquivos M
 - Entender como monitorar os recursos, como também os **alertas** do Azure.
 
 ## Próximos passos
-Aprofundar mais ao fundo sobre os conhecimentos em Cloud Ops e infraestrutura.
+Aprofundar mais os meus conhecimentos em Cloud Ops e infraestrutura.

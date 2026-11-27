@@ -29,9 +29,9 @@ Como o título já diz, é uma maneira de acessar as suas máquinas virtuais. É
 ### Funcionamento:
 
 De maneira simplificada, existem três elementos:
-- Cliente: computador utilizado para iniciar a conexão.
-- Servidor: máquina virtual que receberá a conexão.
-- Protocolo SSH: responsável por estabelecer a comunicação segura.
+- **Cliente:** computador utilizado para iniciar a conexão.
+- **Servidor:** máquina virtual que receberá a conexão.
+- **Protocolo SSH:** responsável por estabelecer a comunicação segura.
 
 Para realizar a conexão, é necessário endereço IP da máquina virtual, mome do usuário configurado na VM, chave SSH ou outra forma de autenticação permitida.
 
@@ -71,8 +71,8 @@ Imagina uma empresa que é dona de vários departamentos diferentes. Em de coloc
 É um recurso do Azure que é utilizado para controlar o tráfego de rede, ou seja, uma espécie de filtro de segurança, permitindo ou bloqueando determinadas conexões.
 
 Existem dois tipos principais de regras:
-- Entrada (Inbound): controla o tráfego que chega ao recurso.
-- Saída (Outbound): controla o tráfego que sai do recurso.
+- **Entrada (Inbound):** controla o tráfego que chega ao recurso.
+- **Saída (Outbound):** controla o tráfego que sai do recurso.
 
 ### Exemplo:
 
@@ -92,6 +92,3 @@ Nesse exemplo:
 É uma parte muito importante do Microsoft Azure. Ao criar uma conta do Azure, é notável perceber que há um certo limite sobre quais recursos podemos usar, pois dependendo os recursos utilizados no Azure podem gerar cobranças de acordo com o consumo, a configuração e o tempo de utilização. O gerenciamento de gastos na nuvem é importante para controlar os custos dos recursos utilizados e evitar despesas desnecessárias. 
 
 No Azure, é possível criar orçamentos, acompanhar o consumo e configurar alertas quando os gastos atingirem determinados valores. Também é recomendado desligar máquinas virtuais que não estão sendo utilizadas, escolher configurações adequadas e excluir recursos desnecessárioo.
-
-
-

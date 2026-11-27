@@ -4,9 +4,7 @@ Nessa parte, explicarei de maneira simples como funciona o monitoramento e os al
 
 ## 1. Azure Monitor
 
-O **Azure Monitor** é um serviço utilizado para acompanhar o funcionamento e o desempenho dos recursos disponíveis no Azure.
-
-Por meio dele, é possível analisar informações sobre os recursos, identificar possíveis problemas e acompanhar o comportamento dos serviços.
+O **Azure Monitor** é um serviço utilizado para acompanhar o funcionamento e o desempenho dos recursos disponíveis no Azure. Por meio dele, é possível analisar informações sobre os recursos, identificar possíveis problemas e acompanhar o comportamento dos serviços.
 
 O monitoramento é importante porque permite identificar situações que podem prejudicar o funcionamento de uma infraestrutura na nuvem.
 
@@ -27,13 +25,9 @@ Essas informações ajudam a identificar se um recurso está funcionando correta
 
 ## 3. Alertas
 
-Os **Alertas** são utilizados para avisar quando determinada condição é identificada durante o monitoramento de um recurso.
+Os **Alertas** são utilizados para avisar quando determinada condição é identificada durante o monitoramento de um recurso. Por exemplo, imagine que uma máquina virtual esteja utilizando uma quantidade muito alta de processamento.
 
-Por exemplo, imagine que uma máquina virtual esteja utilizando uma quantidade muito alta de processamento.
-
-É possível configurar uma condição para que o Azure gere um alerta quando o uso da CPU ultrapassar determinado valor.
-
-Dessa maneira, o administrador pode receber uma notificação e verificar o que está acontecendo.
+É possível configurar uma condição para que o Azure gere um alerta quando o uso da CPU ultrapassar determinado valor. Dessa maneira, o administrador pode receber uma notificação e verificar o que está acontecendo.
 
 ### Como funcionam os alertas?
 
